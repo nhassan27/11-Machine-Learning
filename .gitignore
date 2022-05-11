@@ -9,7 +9,7 @@
 __pycache__
 
 #Ignore zip file
-.zip
+*.zip
 
 # Ignore files related to API keys
 .env
